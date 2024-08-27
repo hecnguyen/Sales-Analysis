@@ -27,3 +27,9 @@ Analyze retail sales data to uncover trends, identify top-performing products an
   •Health and beauty products rank first among males, with total sales of $30,632.75</h5> 
 
 <h2>Recommendations & Next Steps</h2>
+
+<h5>•Explore why males are spending the most on health and beauty products, while their spending on food and beverages is the lowest
+   
+  •While Tuesday is when the supermarket generates the second most revenue, Monday and Wednesday generates the lowest revenue. Investigate whether there are promos to help with sales for beginning of the week 
+ 
+  •Focus more on electronics and fashion accessories by offering discounts and advertising, and convert non-member customers into members since they show interest in these products.</h5>
