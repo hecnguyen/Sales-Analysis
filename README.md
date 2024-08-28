@@ -1,4 +1,4 @@
-# Sales Analysis 
+# Sales Analysis (January 2019 - February 2019)
 Analyze retail sales data to uncover trends, identify top-performing products and categories.
 
 ![Screenshot 2024-08-27 172118](https://github.com/user-attachments/assets/ce4a7d14-679e-4bee-ae26-31b52360d671)
